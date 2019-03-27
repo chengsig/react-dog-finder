@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import uuid from "uuid/v4";
-import { BrowseRouter, Redirect, Link } from "react-router-dom";
+import { Redirect, Link } from "react-router-dom";
 
 class DogDetails extends Component {
   render() {

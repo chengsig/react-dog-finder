@@ -1,0 +1,8 @@
+nav {
+    display: flex;
+    background-color: rgb(123, 78, 165)
+}
+
+nav p {
+    margin: 15px;
+}
